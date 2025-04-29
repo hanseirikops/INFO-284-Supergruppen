@@ -16,7 +16,7 @@ sentimentanalyse av et datasett som inneholder hotellanmeldelser.
 Det skal lages 4 modeller for å klassifisere sentiment i ulike reviews. 
 Fordelingen er som følger:
 
-1. Regressor (Hans)
+1. Regressor (Hans Eirik)
 2. LLM Tekst Analyse (Endre)
 3. LSTM (Sindre)
 4. KNN (Ingeborg)
@@ -26,5 +26,4 @@ Navn i parentes har 'hovedansvar', alle bidrar på alt.
 ### Deloppgave 2
 
 **Oppgave a)**
-
-**Oppgave b)**
+CNN (Hans Eirik)
